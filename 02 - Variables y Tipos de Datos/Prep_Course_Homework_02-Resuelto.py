@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# coding: utf-8
+# coding: utf-8 
 
 # ## Variables
 
@@ -8,8 +8,12 @@
 # In[7]:
 
 
+from re import A
+
+
 a = 12
 print(a)
+print("hola mundo")
 
 
 # 2) Imprimir el tipo de dato de la constante 8.5
